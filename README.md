@@ -30,21 +30,8 @@ then run " sudo apt dist-upgrade" to ensure all necessary plug-ins are installed
 check apache status on system with "sudo systemctl status apache2" and confirm apache is actively running
 use the command "cd /var/" the "ls" to confirm presence of "www" webpage on my apache
 Features
-
-sudo -i
-yum install httpd
-systemctl enable httpd
-systemctl restart httpd
-echo "test" /var/loh/html/index.html
-
-
-
-Installing Apache
-
-
 After loading Apache2 default page
 run "sudo apt search libapache2-mod" 
-
 sudo ufw allow 80,443/tcp....... to configure port to 80
 sudo ufw status...... to check apache firewall status and it says inactive
 sudo ufw enable.... to activate apache firewall 
