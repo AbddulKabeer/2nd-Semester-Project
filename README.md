@@ -1,3 +1,5 @@
+Page local IP: http://13.42.13.237/
+
 # 2nd-Semester-Project
 The tasks are as follows;
 LAUNCHING EC2 INSTANCE
