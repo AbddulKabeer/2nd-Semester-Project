@@ -1,4 +1,4 @@
-Page local IP: http://13.42.13.237/
+Page Public IP: http://13.42.13.237/
 
 # 2nd-Semester-Project
 The tasks are as follows;
